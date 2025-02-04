@@ -1,0 +1,23 @@
+.container {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cabecalho {
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    display: flexbox;
+    align-items: center;
+}
+
+.perfil {
+    width: 300px;
+    border-radius: 30px;
+}
+
+.imagens {
+    margin: 10px;
+}
